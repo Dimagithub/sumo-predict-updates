@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
-  "notes": "Auto-update enabled. This manifest is regenerated per release by scripts/make-latest-json.sh.",
-  "pub_date": "2026-07-26T00:00:00Z",
+  "version": "1.5.0",
+  "notes": "Auto-update, Claude yusho & banzuke prediction, Reload Data",
+  "pub_date": "2026-07-26T14:39:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/Dimagithub/sumo-stats/releases/download/v1.4.0/Sumo.Predict.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDdFRDM5RUJoUzlSUjVoUGZvN1IyU1NqdmV5VWd2WnB5cFFZUVdWa2FUL0dSaHBZeDR5SzFOdXFLMnpXLzMyZUZWSFRZSFhXSG9MU2xEZVE0Mi9qQ1dSN2l6SXVrVlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDc2NzMyCWZpbGU6U3VtbyBQcmVkaWN0LmFwcC50YXIuZ3oKYUJ2cmxnUWhzREp1Qm1meUFCdkZFdCtlUDRwQTJNT1kzZVZNWUUvNjdzd093ODh4aHVJejN3SSs0NVhqallRMkIrUjM3WExZK1RqSFpFazExeFluQkE9PQo=",
+      "url": "https://github.com/Dimagithub/sumo-predict-updates/releases/download/v1.5.0/Sumo.Predict.app.tar.gz"
     }
   }
 }
