@@ -1,0 +1,11 @@
+{
+  "version": "1.4.0",
+  "notes": "Auto-update enabled. This manifest is regenerated per release by scripts/make-latest-json.sh.",
+  "pub_date": "2026-07-26T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/Dimagithub/sumo-stats/releases/download/v1.4.0/Sumo.Predict.app.tar.gz"
+    }
+  }
+}
