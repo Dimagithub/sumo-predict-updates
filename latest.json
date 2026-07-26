@@ -1,11 +1,11 @@
 {
-  "version": "1.5.0",
-  "notes": "Auto-update, Claude yusho & banzuke prediction, Reload Data",
-  "pub_date": "2026-07-26T14:39:03Z",
+  "version": "1.5.1",
+  "notes": "Ozeki promotion rules in ranking prediction; Check for Updates menu",
+  "pub_date": "2026-07-26T15:02:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDdFRDM5RUJoUzlSUjVoUGZvN1IyU1NqdmV5VWd2WnB5cFFZUVdWa2FUL0dSaHBZeDR5SzFOdXFLMnpXLzMyZUZWSFRZSFhXSG9MU2xEZVE0Mi9qQ1dSN2l6SXVrVlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDc2NzMyCWZpbGU6U3VtbyBQcmVkaWN0LmFwcC50YXIuZ3oKYUJ2cmxnUWhzREp1Qm1meUFCdkZFdCtlUDRwQTJNT1kzZVZNWUUvNjdzd093ODh4aHVJejN3SSs0NVhqallRMkIrUjM3WExZK1RqSFpFazExeFluQkE9PQo=",
-      "url": "https://github.com/Dimagithub/sumo-predict-updates/releases/download/v1.5.0/Sumo.Predict.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDdFRDM5RUJoUytOSWJCejZMRlRrNzZ4Y1Noanl4MCtVZUlnYzMyNUNOdEl0b3lxQXJIZFJza29hcDRIeHMvbXdmUWdGMWI3a2dDY3g5d1Q2ZGkrOGgzMWE4SFhGTkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDc4MTM3CWZpbGU6U3VtbyBQcmVkaWN0LmFwcC50YXIuZ3oKRHZUVlFMTnJjbFJMS2ZNM2ozeTV5ZDM0aGwybkZsRzgxM25wcldUNFllNjJxRitEOEMyMXZvRmNMMlBSQzRCNWZSbjlZS1VYaklQOFRVb0xxb0dlQnc9PQo=",
+      "url": "https://github.com/Dimagithub/sumo-predict-updates/releases/download/v1.5.1/Sumo.Predict.app.tar.gz"
     }
   }
 }
