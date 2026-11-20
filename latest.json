@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2",
-  "notes": "Promotion rule explanations + precedents; Future Basho on the site",
-  "pub_date": "2026-07-27T00:55:00Z",
+  "version": "1.5.3",
+  "notes": "Context-aware bout predictions (stakes, absences, parallels, weighted head-to-head); Claude on Opus as a confident-only second opinion.",
+  "pub_date": "2026-11-20T14:51:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDdFRDM5RUJoUzlRanRHcWkwTWdDakwxRlZCNnRLalZ1NmV4cCt3NTQreGs4eXhWdjR4eWdMQlRUbk92eHBtcjQzMUl4aWxyeFhjSktDMUVOMkp4Qi9wbmxRb3Uwa2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTEzNjI1CWZpbGU6U3VtbyBQcmVkaWN0LmFwcC50YXIuZ3oKU2tYMjlUUDhVd1l4Ym9xMDlxYXJZVG13ano5d3pGempsai9xUmpxbERrNW4rRUptOHh3YnJyR3ZWd201dms2MExjUDNkdmZwVzFTVzQwL0JBcndzRGc9PQo=",
-      "url": "https://github.com/Dimagithub/sumo-predict-updates/releases/download/v1.5.2/Sumo.Predict.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDdFRDM5RUJoUzBHZGRyN0FVTEg0dlZJQXFueEdiTG9NeXhPNjFWbElqVWtYNjJSOUFWWExLb01laW9KWTdEUExUckI1eGF1OHZlY3QxVTZwazVib0ZyNkdFRFZmcVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTg2MjI5CWZpbGU6U3VtbyBQcmVkaWN0LmFwcC50YXIuZ3oKbkFaSTcreXh0UGJrUlhQOW9jZzh3OU5DM011ZWpTeFp5VzVZLzZ2RGp1bnNLR1h0YlJiSkhWSVJ5SWp4THJmOVlPQVFNb0VCV0ovRWI4UHNBVGlQRGc9PQo=",
+      "url": "https://github.com/Dimagithub/sumo-predict-updates/releases/download/v1.5.3/Sumo.Predict.app.tar.gz"
     }
   }
 }
